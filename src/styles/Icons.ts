@@ -3,3 +3,4 @@ export {Home,Notifications,Email,FavoriteBorder,ExitToApp,LocationOn,Search,} fr
   export { ArrowLeft } from 'styled-icons/heroicons-solid';
   export { Chat } from 'styled-icons/heroicons-outline';
   export {Retweet} from "@styled-icons/entypo/Retweet"
+  export {Lightning} from "@styled-icons/bootstrap/Lightning"
